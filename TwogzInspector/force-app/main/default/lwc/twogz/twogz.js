@@ -1,6 +1,5 @@
 import { LightningElement, api, wire } from 'lwc';
 import { getRecord } from 'lightning/uiRecordApi';
-import { getRecordUi } from 'lightning/uiRecordApi';
 import twogz from '@salesforce/resourceUrl/twogz';
 import Id from '@salesforce/user/Id';
 import getLayoutFullName from '@salesforce/apex/LayoutHelper.getLayoutFullName';
