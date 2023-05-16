@@ -2,11 +2,19 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "TwogzInspector",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": ""
     }
   ],
   "name": "TwogzInspector",
   "namespace": "Twogz",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "56.0"
+  "sourceApiVersion": "56.0",
+  "packageAliases": {
+    "TwogzInspector": "0Ho09000000k9xBCAQ",
+    "TwogzInspector@0.1.0-1": "04t09000000r8W2AAI"
+  }
 }
