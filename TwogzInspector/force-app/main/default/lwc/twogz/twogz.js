@@ -38,6 +38,7 @@ export default class Twogz extends LightningElement {
             });
             console.log('Done');
             console.log('Layout Id: ' + this.layoutId);
+            console.log('Layout FullName: ' + this.layoutFullName);
         }
     }
     
