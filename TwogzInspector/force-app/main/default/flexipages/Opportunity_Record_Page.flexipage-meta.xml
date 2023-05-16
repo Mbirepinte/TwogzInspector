@@ -178,12 +178,6 @@
                 <identifier>force_relatedListContainer</identifier>
             </componentInstance>
         </itemInstances>
-        <itemInstances>
-            <componentInstance>
-                <componentName>twogz</componentName>
-                <identifier>c_twogz</identifier>
-            </componentInstance>
-        </itemInstances>
         <mode>Replace</mode>
         <name>relatedListTabContent</name>
         <type>Facet</type>
