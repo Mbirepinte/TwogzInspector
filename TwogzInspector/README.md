@@ -1,18 +1,15 @@
-# Salesforce DX Project: Next Steps
+# Step 1
 
-Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
+Create 2Gezer Inspector User or use already existing account and assign it the "API Only Permission" permission set.
 
-## How Do You Plan to Deploy Your Changes?
+## Step 2
 
-Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
+-Find ToolingConnectedApp in AppManager > View > Manage Consumer Details
+-Edit Custom Label "Client ID" with the Consumer Key of the connected app.
+-Edit Custom Label "Client Secret" with the Consumer Secret.
 
-## Configure Your Salesforce DX Project
+## Step 3
 
-The `sfdx-project.json` file contains useful configuration information for your project. See [Salesforce DX Project Configuration](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm) in the _Salesforce DX Developer Guide_ for details about this file.
+-Find ToolingConnectedApp in AppManager > Manage > Edit policies
+-Select the User setted up in Step 1 Client Credentials Flow > Run As.
 
-## Read All About It
-
-- [Salesforce Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
-- [Salesforce CLI Setup Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_setup.meta/sfdx_setup/sfdx_setup_intro.htm)
-- [Salesforce DX Developer Guide](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_intro.htm)
-- [Salesforce CLI Command Reference](https://developer.salesforce.com/docs/atlas.en-us.sfdx_cli_reference.meta/sfdx_cli_reference/cli_reference.htm)
