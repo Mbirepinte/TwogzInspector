@@ -5,21 +5,21 @@
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>clientId</shortDescription>
-        <value>3MVG9OjW2TAjFKUtng_ypHzl_ivzgtnuc5xzQk4HUS3DAN8y_N.KUsVkC9K54AARyAvmqRDoCyMBsWkSLvtf6</value>
+        <value>toto</value>
     </labels>
     <labels>
         <fullName>clientSecret</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>clientSecret</shortDescription>
-        <value>EC7F1FF24CB2A2254F4417EEEB5AC52EE1AA064D2515EB31908C06887373C6BE</value>
+        <value>toto</value>
     </labels>
     <labels>
         <fullName>password</fullName>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>password</shortDescription>
-        <value>dvxvy0azQqw[mtsnylesCGabzOABYb92bfuauRyz1DdN</value>
+        <value>toto</value>
     </labels>
     <labels>
         <fullName>userName</fullName>
